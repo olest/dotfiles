@@ -1,1 +1,6 @@
+alias srx='screen -rx'
+alias sls='screen -ls'
+
+alias rq='/illumina/development/R/bin/R --quiet --no-save'
+alias rv='/illumina/development/R/bin/R --vanilla --quiet --no-save'
 
