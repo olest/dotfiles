@@ -4,3 +4,6 @@ alias sls='screen -ls'
 alias rq='/illumina/development/R/bin/R --quiet --no-save'
 alias rv='/illumina/development/R/bin/R --vanilla --quiet --no-save'
 
+alias dpsa='sudo docker ps -a'
+alias di='sudo docker images'
+
